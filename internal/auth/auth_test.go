@@ -13,4 +13,3 @@ func TestGetAPIKey(t *testing.T) {
 		t.Errorf("Error: %s", err)
 	}
 }
-
